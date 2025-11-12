@@ -1,2 +1,2 @@
-#Training[[:space:]]Kuyn.xlsx filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
+Training[[:space:]]Kuyn.xlsx filter=lfs diff=lfs merge=lfs -text
+
